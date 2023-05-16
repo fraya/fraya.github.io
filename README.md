@@ -10,4 +10,4 @@ control over dynamic and static behaviors.
 
 ### v3d
 
-A small 3d vector library [v3d](/docs/v3d/)
+A small 3d vector library [v3d](/v3d/)
